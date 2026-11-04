@@ -1,0 +1,13 @@
+.history {
+  font-size:12px;
+}
+
+.update-date {
+  padding-right:8px;
+  vertical-align:top;
+  border-bottom:1px solid #ddd;
+}
+
+.content {
+  border-bottom:1px solid #ddd;
+}
